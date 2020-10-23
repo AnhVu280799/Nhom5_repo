@@ -8,6 +8,7 @@ int main()
     cin >> a;
     cin >> b;	
     cout << "Dien tich hcn : " << a*b;
+	 cout << "Chu vi hcn : " << (a+b)*2;
 	
     system("pause");
  return 0;
