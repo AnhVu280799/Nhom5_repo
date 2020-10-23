@@ -1,0 +1,14 @@
+#include<iostream>
+#using namespace std;
+int main()
+{
+ int a,b;
+    cout << "----Tinh DT HCN-----\n";
+    cout << "nhap vao 2 canh a, b: " ;
+    cin >> a;
+    cin >> b;	
+    cout << "Dien tich hcn : " << a*b;
+	
+    system("pause");
+ return 0;
+}
