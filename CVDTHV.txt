@@ -3,11 +3,11 @@ using namespace std;
 int main()
 {
  int a;
-    cout << ------Tinh DT HINH VUONG----\n";
+    cout << "------Tinh DT HINH VUONG----\n";
     cout << "Nhap vao canh a: ";
     cin >> a;
     cout << "Dien tich hinh vuong: "<< a*a;
-   
+    cout << "Chu vi hinh vuong: "<< a*4;
     system("pause");
     return 0;
 }
